@@ -7,7 +7,7 @@
  Solution: Update 7/16/2013: Let j start from 0 for better understanding.
  */
 public class Solution {
-// <$ tag="duplicates,array,java,test" description="Given a sorted array, remove the duplicates in place such that each element appear only once and return the new length." $$
+// <$ tag="duplicates,array,java,test" description="Given a sorted array remove the duplicates in place such that each element appear only once and return the new length." $$
     public int removeDuplicates(int[] A) {
         int N = A.length;
         int idx = 0;
