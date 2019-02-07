@@ -12,7 +12,7 @@ public class CodeBank
 		//
 	}
 
-    // <$ tag="parentheses,c#,test" description="Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses."$$
+    // <$ tag="parentheses,c#,test" description="Given n pairs of parentheses write a function to generate all combinations of well-formed parentheses."$$
 
     public static IList<string> GenerateParenthesis(int n)
     {
