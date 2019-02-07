@@ -13,7 +13,7 @@
  */
 
 public class Solution {
-// <$ tag="parentheses,java,test" description="Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses."$$
+// <$ tag="parentheses,java,test" description="Given n pairs of parentheses write a function to generate all combinations of well-formed parentheses."$$
 
     public List<String> generateParenthesis(int n) {
         ArrayList<String> res = new ArrayList<String>();
