@@ -1,10 +1,4 @@
 /*
- Author:     King, wangjingui@outlook.com
- Date:       Dec 13, 2014
- Problem:    Integer to Roman
- Difficulty: Easy
- Source:     https://oj.leetcode.com/problems/integer-to-roman/
- Notes:
  Given an integer, convert it to a roman numeral.
  Input is guaranteed to be within the range from 1 to 3999.
  Solution: Buffer the roman numbers.
