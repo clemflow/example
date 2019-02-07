@@ -25,7 +25,7 @@ namespace Algorithms
 {
     public class RemoveDuplicatesClass
     {
-        // <$ tag="duplicates,array,c#,test" description="Given a sorted array, remove the duplicates in place such that each element appear only once and return the new length."
+        // <$ tag="duplicates,array,c#,test" description="Given a sorted array, remove the duplicates in place such that each element appear only once and return the new length." $$
         public static int RemoveDuplicates(int[] nums)
         {
             if (nums.Length <= 1) return nums.Length;
